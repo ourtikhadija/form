@@ -1,0 +1,17 @@
+body{
+    background: #ececec;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+/*-----------login-------------*/
+.box-area{
+    width: 930px;
+}
+/*-----------left-------------*/
+
+p{
+    text-align: center;
+}
+/*-----------right -------------*/
+.right-box{
+    padding: 40px 30px 40px 40px;
+}
